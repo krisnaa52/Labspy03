@@ -37,7 +37,7 @@ inputan akan berhenti jika memasukan bilangan 0 (Nol)__
 
 # ![GitHub Logo](t2.png)
 
-**__hasil eksekusi program latihan 3__**
+**__hasil eksekusi program latihan 2__**
 
 # ![GitHub Logo](ht2.png)
 
